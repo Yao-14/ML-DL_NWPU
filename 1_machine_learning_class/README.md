@@ -4,7 +4,7 @@
   <img height="300" src="https://github.com/ER-lab/ML-DL_NWPU/blob/main/1_machine_learning_class/image/ml&ai_image.png" />
 </p
 
-- The relationship between machine learning, deep learning and artificial intelligence
+- The relationship between machine learning, deep learning and artificial intelligence.
 
 ## **Four categories of methods for machine learning**
 <p align="center">
