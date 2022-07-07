@@ -15,3 +15,12 @@
 - Unsupervised learning: RBM (Restricted Boltzmann Machine) -> AutoEncoder -> GANs ->...
 - RNN (Recurrent Neural Networks) -> LSTM ->...
 - Reinforcement learning: Deep Q-learning ->...
+
+## **K-Nearest Neighbor (KNN) classification algorithm**
+<p align="center">
+  <img height="300" src="https://github.com/ER-lab/ML-DL_NWPU/blob/main/1_machine_learning_class/image/knn.png" />
+</p
+
+- The idea of KNN method is：If a sample has k most similar smaples(have a shortest distance in characteristic space) which are mostly belong to a category, then the sample also belongs to this category. 
+
+## **K-Nearest Neighbor (KNN) classification algorithm**
