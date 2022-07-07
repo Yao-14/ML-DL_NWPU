@@ -24,3 +24,4 @@
 - The idea of KNN method is：If a sample has k most similar smaples(have a shortest distance in characteristic space) which are mostly belong to a category, then the sample also belongs to this category. 
 
 ## **K-Nearest Neighbor (KNN) classification algorithm**
+
