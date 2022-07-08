@@ -1,7 +1,7 @@
 # **Machine learning and artificial intelligence**
 
 <p align="center">
-  <img height="300" src="https://github.com/ER-lab/ML-DL_NWPU/blob/main/1_machine_learning_class/image/ml&ai_image.png" />
+  <img height="300" src="https://github.com/ER-lab/ML-DL_NWPU/blob/main/1_machine_learning_class/images/ml&ai_image.png" />
 </p
 
 - The relationship between machine learning, deep learning and artificial intelligence.
@@ -24,4 +24,8 @@
 - The idea of KNN method is：If a sample has k most similar smaples(have a shortest distance in characteristic space) which are mostly belong to a category, then the sample also belongs to this category. 
 
 ## **K-Nearest Neighbor (KNN) classification algorithm**
+<p align="center">
+  <img height="300" src="https://github.com/ER-lab/ML-DL_NWPU/blob/main/1_machine_learning_class/images/kmeans-illustration.jpeg" />
+</p
 
+- K-Means algorthms is a process which repeatly moves the center point，moving the center point of the class which is called centroids to the average position of all other members，and redivide the members of it.
