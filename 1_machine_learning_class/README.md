@@ -8,7 +8,7 @@
 
 ## **Four categories of methods for machine learning**
 <p align="center">
-  <img height="300" src="https://github.com/ER-lab/ML-DL_NWPU/blob/main/1_machine_learning_class/image/ml_methods.png" />
+  <img height="300" src="https://github.com/ER-lab/ML-DL_NWPU/blob/main/1_machine_learning_class/images/ml_methods.png" />
 </p
 
 - perceptron -> MLP (Multilayer Perceptron) -> CNN ->...
@@ -18,7 +18,7 @@
 
 ## **K-Nearest Neighbor (KNN) classification algorithm**
 <p align="center">
-  <img height="300" src="https://github.com/ER-lab/ML-DL_NWPU/blob/main/1_machine_learning_class/image/knn.png" />
+  <img height="300" src="https://github.com/ER-lab/ML-DL_NWPU/blob/main/1_machine_learning_class/images/knn.png" />
 </p
 
 - The idea of KNN method is：If a sample has k most similar smaples(have a shortest distance in characteristic space) which are mostly belong to a category, then the sample also belongs to this category. 
